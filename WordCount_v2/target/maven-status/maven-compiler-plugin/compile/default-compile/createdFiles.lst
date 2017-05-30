@@ -1,0 +1,4 @@
+WordCount$TokenizerMapper$CountersEnum.class
+WordCount.class
+WordCount$IntSumReducer.class
+WordCount$TokenizerMapper.class
